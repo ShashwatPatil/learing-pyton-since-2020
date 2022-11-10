@@ -1,0 +1,287 @@
+Practice Area	Keywords
+Advertising & Marketing	advertising, marketing
+Alcohol Beverage Law	alcohol, beverage
+Antitrust and Competition	antitrust, competition law
+Bankruptcy	
+  Bankruptcy - Creditors Rights	creditors, creditors rights
+  Bankruptcy - Debtor	debtor, chapter 11, workouts
+  Bankruptcy - Consumer	consumer debt, bankruptcy code
+  Bankruptcy - General	restructuring, reorganization, chapter 7, chapter 13, bankruptcy
+Cannabis Law	cannabis, marijuana, medical marijuana, pot law, cannabis law
+Civil Rights	civil rights, Title IX
+Commercial Property (UK)	commercial property, commercial real estate, commercial conveyancing
+Construction	construction, green construction
+Contract Law	contracts, contract law, agreements
+Corporate	
+  Corporate - Compliance	regulatory, business policies, Code of Conduct, company policies
+  Corporate - General	transactions, corporate governance, corporate formation, business formation, organizational documents, operating agreements, closing documents, business law
+  Corporate - Emerging Companies	strategic alliances, distribution agreements, public offerings, emerging company, startup
+  Corporate - Fund Formation / Investment Management	Investment Company Act, 1940 Act, private equity, fund formation, joint ventures, asset management, investment management, fund restructuring, buy-outs/buy-ins, hedge funds, consortium deals, equity financing, growth equity
+  Corporate - M&A	mergers, acquisitions
+  Corporate - Securities and Capital Markets	securities, capital markets, initial public offerings, IPO, Securities Act of 1933, Securities Exchange Act of 1934, Broker Dealer
+  Corporate - Venture Capital	venture capital, emerging companies, portfolio company
+Criminal Law - Defense	crime, criminal, public defender, fraud, homicide, felony, misdemeanor, criminal appeals, sexual harassment, Child Victim's Act, childhood sexual abuse, corrections law
+Criminal Law - Prosecution	crime prosecution
+Data Privacy	data privacy, data security, privacy laws, data security laws, CIPP certification, CISPP certification, cybersecurity, Internet law, data protection, General Data Protection Regulation, GDPR, Right to Privacy Act
+Education	education, school,
+Elder Law	elder law
+Electric Power	electricity, electric power
+Energy and Oil & Gas	energy law, oil & gas law
+  Energy and Oil & Gas - Transactional	
+  Energy and Oil & Gas - Litigation	
+  Energy and Oil & Gas - General	
+Entertainment and New Media	Entertainment, new media, advertising, right of publicity
+  Entertainment and New Media - Transactional	
+  Entertainment and New Media - IP	
+  Media Law	media, media law
+Environmental and Land Use	
+  Environmental Law	environmental law, planning laws, natural resources law, CEQA, environmental impact statement, EIS, Environmental Protection Agency, EPA, CERCLA, Brown Act, toxic tort, hazardous waste law, wildlife law
+  Land Use & Zoning	land use, land development, zoning, zoning laws
+  Mining Law	mining, mining law
+  Water Law	Water Law, Clean Water Act, Watershed Management, Safe Drinking Water Act
+ERISA/Executive Compensation	ERISA, Employment Retirement Income Security Act, employee benefits, pension plans, retirement funds, federal employee benefits, executive compensation plans 
+Family Law
+	Family law, domestic relations, child custody, divorce, marriage, marriage dissolution, prenuptial agreement, visitation rights, child support, alimony, palimony, property distribution, property division, community property, separate property emancipation, family, domestic violence, dependency law
+Finance	
+  Finance - Consumer	consumer finance
+  Finance - General	accounting and finance for lawyers, finance
+  Finance - Banking	lending, banking, debt finance, credit facilities, acquisition finance, credit agreements, lending, asset-based facilities, acquisition financing, leveraged acquisitions, leveraged transactions, syndicated transactions, Banking Act of 1933, Dodd-Frank Act of 2010, Bank Secrecy Act, Community Reinvestment Act of 1977
+  Finance - Financial Services Regulation	financial services regulatory, financial services regulation
+  Fintech	bitcoin, blockchain, cryptocurrency, crowdsourcing, artificial intelligence, digital banking, digital and mobile wallets, e-commerce and trading platforms, payment gateways, virtual currency, money transfer, e-trade, marketplace lending, mobile finance
+  Finance - Project Finance	project finance, project development
+  Finance - Public Finance	public finance, Build America Bonds, paper and interim financing programs, liquidity and credit enhanced financings, recovery zone economic development bonds, recovery zone facility bonds, refundings, sale/leaseback transactions, tax credit bonds, tax-exempt bonds for Native American tribes including Tribal Economic Development Bonds, variable rate bonds, windows bonds, zero coupon bonds, short-term cash flow borrowings, structural deficit financings, lease and installment purchase financings, master indenture financing, pooled financings, general obligation and revenue bond financing, current and advance refunding
+  Finance - Structured Finance	structured finance, asset securitization, asset-based lending, collateralized debt obligations, collateralized loan obligations, CDO's, CLO's, securitization, derivatives, ISDA, 
+  Finance - Transportation Finance	transportation finance, financing, leveraged lease, leveraged lease transactions, aerospace, aircraft finance
+Food & Drug Administration	FDA, Food & Drug Administration
+Franchise Law	franchisee, franchise law 
+General Practice (Litigation)	
+General Practice (Transaction)	
+General Practice (Litigation & Transaction)	
+Government and Government Relations
+	government relations, lobbying, special projects, government affairs, regulatory compliance, legislative law, political law, government policy, election/budgets, federal government, state government, social security, veteran affairs, administrative law, Homeland Security, Legislation and Regulation
+Government Contracts
+	government contracts, GSA contract, government contractors, government procurement, DOJ, DOD, government bids
+Health Care
+	health care/ healthcare + 
+transactional, regulatory, Life Sciences, compliance, HIPAA, hospitals, doctors, medical providers, medical facilities, physicians, nurses, administrators, nursing homes, HHIPAA, fraud and abuse, false claims, anti-kickback, False Claims Act, Stark Law, third-party medical assistance coverage, health insurance, Medicare and Medicaid, public health law
+Immigration
+	immigration, naturalization, illegal aliens, refugees, citizenship, political asylum, visa, United States Citizenship and Immigration Services, USCIS, PERM experience, I-9, LCA, complex immigration cases, EB-5, FIRPTA
+Information Technology	information technology
+Insurance Coverage	insurance coverage, Bad Faith
+Insurance Defense	insurance defense, defense liability, general liability
+Insurance - Regulatory & Compliance	insurance regulatory, insurance compliance
+Intellectual Property	
+  Intellectual Property - General	IP, intellectual property,  Legal issues of Algorithms, Machine Learning, and Artificial Intelligence
+  IP - Litigation	
+  IP - Litigation - General	Litigation +
+•	intellectual property, patent, copyright, trademark, trade secrets
+    IP - Litigation - Hard Sciences	
+      IP - Litigation - Computer Engineering	Computer Engineering, Semiconductor Technology
+      IP - Litigation - Computer Science	Computer Science
+      IP - Litigation - Electrical Engineering	Electrical Engineering, Electronics Engineering, Optical Engineering
+      IP - Litigation - Hardware	Hardware
+      IP - Litigation - Hard Science - General	Ceramics Engineering, Metallurgical Engineering
+      IP - Litigation - Mechanical	Mechanical Engineering
+      IP - Litigation - Physics	Physics
+      IP - Litigation - Software	Software, Semiconductor Technology
+    IP - Litigation - Life Sciences	
+      IP - Litigation - Biochemistry	Biochemistry, Biostatistics
+      IP - Litigation - Bioengineering	Bioengineering, Biomedical Engineering, Bioelectrical Engineering, Biostatistics
+      IP - Litigation - Biology	Biology, Microbiology
+      IP - Litigation - Biomechanics	Biomechanics
+      IP - Litigation - Biophysics	Biophysics, Biostatistics
+      IP - Litigation - Biotechnology	Biotechnology, Bioinformatics
+      IP - Litigation - Cellular Technology	Cellular Technology, Cell Biology
+      IP - Litigation - Chemistry	Chemistry, Chemical Engineering, Physical Chemistry, Petrochemical Engineering, Medicinal Chemistry
+      IP - Litigation - Endocrinology	Endocrinology
+      IP - Litigation - Genetics	Genetics
+      IP - Litigation - Genomics	Genomics
+      IP - Litigation - Life Science - General	Life Science
+      IP - Litigation - Medicine	Medicine, Immunology, Epidemiology, Medical Device
+      IP - Litigation - Molecular Biology	Molecular Biology, Microbiology
+      IP - Litigation - Neuroscience	Neuroscience
+      IP - Litigation - Oncology	Oncology
+      IP - Litigation - Organic Chemistry	Organic Chemistry
+      IP - Litigation - Pharmacology	Pharmacology
+  IP - Patent - General	
+    IP - Patent - Hard Sciences	
+      IP - Patent - Computer Engineering	Computer Engineering, Semiconductor Technology
+      IP - Patent - Computer Science	Computer Science
+      IP - Patent - Electrical Engineering	Electrical Engineering, Electronics Engineering, Optical Engineering
+      IP - Patent - Hardware	Hardware
+      IP - Patent - Hard Science - General	Ceramics Engineering, Metallurgical Engineering, Material Science
+      IP - Patent - Mechanical	Mechanical Engineering
+      IP - Patent - Physics	Physics
+      IP - Patent - Software	Software, Semiconductor Technology
+    IP - Patent - Life Sciences	
+      IP - Patent - Biochemistry	Biochemistry, Biostatistics
+      IP - Patent - Bioengineering	Bioengineering, Biomedical Engineering, Bioelectrical Engineering, Biostatistics
+      IP - Patent - Biology	Biology, Microbiology
+      IP - Patent - Biomechanics	Biomechanics
+      IP - Patent - Biophysics	Biophysics, Biostatistics
+      IP - Patent - Biotechnology	Biotechnology, Bioinformatics
+      IP - Patent - Cellular Technology	Cellular Technology, Cell Biology
+      IP - Patent - Chemistry	Chemistry, Chemical Engineering, Physical Chemistry, Petrochemical Engineering, Medicinal Chemistry
+      IP - Patent - Endocrinology	Endocrinology
+      IP - Patent - Genetics	Genetics
+      IP - Patent - Genomics	Genomics
+      IP - Patent - Life Science - General	Life Science, Material Science
+      IP - Patent - Medicine	Medicine, Immunology, Epidemiology, Medical Device
+      IP - Patent - Molecular Biology	Molecular Biology, Microbiology
+      IP - Patent - Neuroscience	Neuroscience
+      IP - Patent - Oncology	Oncology
+      IP - Patent - Organic Chemistry	Organic Chemistry
+      IP - Patent - Pharmacology	Pharmacology
+Intellectual Property - Patent Licensing	patent licensing
+Intellectual Property - Trademark/Copyright	Copyright, trademark
+  Intellectual Property - Trademark/Copyright - Litigation	
+  Intellectual Property - Trademark/Copyright - Transaction	
+International Law	international law
+International Trade 	International trade, OFAC, export control, economic sanctions, trade laws, trade policy, World Trade Organization, NAFTA, trade sanctions, International Trade Commission, ITC, antidumping, trade remedies,
+Judicial Review	judicial review
+Labor & Employment	Employment law, labor, disability law, Employment Practices Liability Insurance (EPLI)
+Litigation	
+  Litigation - Antitrust	Litigation +
+•	Antitrust, competition law
+  Litigation - Appellate	Litigation +
+•	Appellate, appeal
+  Litigation - Asbestos	Litigation +
+•	asbestos, asbestos litigation, asbestos defense
+  Litigation - Banking & Finance	Litigation +
+•	lending, banking, debt finance, credit facilities, acquisition finance, credit agreements, lending, asset-based facilities, acquisition financing, leveraged acquisitions, leveraged transactions, syndicated transactions, Banking Act of 1933, Dodd-Frank Act of 2010, Bank Secrecy Act, Community Reinvestment Act of 1977
+  Litigation - Bankruptcy	Litigation + 
+•	creditors, creditors rights, debtor, chapter 11, workouts, consumer debt, restructuring, reorganization, chapter 7, chapter 13, bankruptcy
+  Litigation - Compliance	Litigation +
+•	compliance
+  Litigation - Construction 	Litigation +
+•	Construction, Back End Construction, Construction Defect, New York Labor Law Sections 200, 240 (1) and 241 (6)
+  Litigation - E-discovery / Document Review	Litigation +
+•	E-discovery, document review
+  Litigation - Entertainment	Litigation + 
+•	Entertainment
+  Litigation - Environmental	Litigation +
+•	environmental law, planning laws, natural resources law, CEQA, environmental impact statement, EIS, Environmental Protection Agency, EPA, CERCLA, Brown Act, toxic tort, hazardous waste law, wildlife law
+  Litigation - ERISA	Litigation + 
+•	ERISA, employee benefits
+  Litigation - Financial Services	Litigation +
+•	fair credit reporting, Telephone Consumer Protection Act, ponzi schemes, consumer claims, payment processing
+  Litigation - First Amendment	
+  Litigation - General / Commercial	debt collection, commercial litigation, civil litigation, trials, depositions, pleadings, Credit Repair, FCRA, FDCPA, UDAAP, alternative dispute resolution/mediation, civil procedure, conflicts of law, evidence, federal judicial settlements, federal jurisdiction, Forensic Studies, Constitutional law, Media Criticism and Journalism, Negotiation Law, Cyber / Digital Forensics, Digitalisation Law and Innovation
+  Litigation - General Practice (Litigation)	
+  Litigation - Health Care	Litigation +
+•	Health care 
+  Litigation - Insurance	Litigation +
+•	General liability, premises liability, insurance coverage dispute, first party property damage,
+  Litigation - International Arbitration	Litigation + 
+•	international arbitration, international laws, international dispute resolution
+  Litigation - Land Use & Zoning	Litigation +
+•	land use, land development, zoning, zoning laws
+  Litigation - Labor & Employment	Litigation +
+•	Employment law, wage and hour laws, OSHA, National Labor Relations Board, NLRB, EEOC, TUPE, wrongful termination
+  Litigation - Lemon Law	Litigation +
+•	lemon law
+  Litigation - Mass Torts / Class Actions	Litigation +
+•	mass torts, class actions
+  Litigation - Mediation	Litigation +
+•	mediation
+  Litigation - Medical Malpractice	Litigation +
+•	Medical malpractice, healthcare provide liability
+  Litigation - Mergers and Acquisitions	Litigation +
+•	M&A, mergers, acquisitions
+  Litigation - Municipal Law	Litigation +
+•	Municipal Law
+  Litigation - Personal Injury	Litigation +
+•	personal injury, bodily injury
+  Litigation - Product Liability	Litigation +
+•	product liability, product defect litigation
+  Litigation - Professional Liability	Litigation +
+•	professional liability
+  Litigation - Professional Malpractice Law	Litigation +
+•	professional malpractice
+  Litigation - Real Estate	Litigation +
+•	real estate, landlord tenant, eviction
+    Litigation - Real Estate - General	
+    Litigation - Real Estate - Foreclosure	Litigation + Real Estate +
+•	foreclosure
+  Litigation - Regulatory Enforcement (SEC, telecom, energy)	
+  Litigation - Securities Litigation	Litigation +
+•	Securities litigation, shareholder derivative suits, SEC, Securities and Exchange Commission, 
+  Litigation - Tax	Litigation +
+•	Tax
+  Litigation - Transportation	Litigation +
+•	maritime, admiralty, chartering, port, dockage, transportation
+  Litigation - Trusts & Estates	Litigation +
+•	trusts and estates, estate planning, wealth management, wills, executor, community property, probate, private client
+  Litigation - White Collar Crime	Litigation +
+•	white collar, FCPA, government enforcement, compliance, investigation, OFAC, Foreign Corrupt Practices Act, anti-bribery
+  Litigation - Workers Compensation	Litigation +
+•	Workers' compensation
+Municipal Law
+	Municipal law, local government law, commission, public sector, sunshine laws, public records acts, ordinances, bylaws, city council, town council, subdivisions, water districts, Community Redevelopment Agencies, Transportation Authorities, bond counsel, municipal finance
+Native American Law	Indian law, native law, indigenous tribes, aboriginals
+Non-profit / Charities Law	non-profit, charities
+Other	
+Patent Agent / Technical Specialist	
+    Patent Agents - Hard Sciences	
+      Patent Agents - Computer Engineering	Computer Engineering, Semiconductor Technology
+      Patent Agents - Computer Science	Computer Science
+      Patent Agents - Electrical Engineering	Electrical Engineering, Electronics Engineering, Optical Engineering
+      Patent Agents - Hardware	Hardware
+      Patent Agents - Hard Science - General	Ceramics Engineering, Metallurgical Engineering
+      Patent Agents - Mechanical	Mechanical Engineering
+      Patent Agents - Physics	Physics
+      Patent Agents - Software	Software, Semiconductor Technology
+    Patent Agents - Life Sciences	
+      Patent Agents - Biochemistry	Biochemistry, Biostatistics
+      Patent Agents - Bioengineering	Bioengineering, Biomedical Engineering, Bioelectrical Engineering, Biostatistics
+      Patent Agents - Biology	Biology, Microbiology
+      Patent Agents - Biomechanics	Biomechanics
+      Patent Agents - Biophysics	Biophysics, Biostatistics
+      Patent Agents - Biotechnology	Biotechnology, Bioinformatics
+      Patent Agents - Cellular Technology	Cellular Technology, Cell Biology
+      Patent Agents - Chemistry	Chemistry, Chemical Engineering, Physical Chemistry, Petrochemical Engineering, Medicinal Chemistry
+      Patent Agents - Endocrinology	Endocrinology
+      Patent Agents - Genetics	Genetics
+      Patent Agents - Genomics	Genomics
+      Patent Agents - Life Science - General	Life Science
+      Patent Agents - Medicine	Medicine, Immunology, Epidemiology, Medical Device
+      Patent Agents - Molecular Biology	Molecular Biology, Microbiology
+      Patent Agents - Neuroscience	Neuroscience
+      Patent Agents - Oncology	Oncology
+      Patent Agents - Organic Chemistry	Organic Chemistry
+      Patent Agents - Pharmacology	Pharmacology
+Public Interest Law	PIL, public interest, human rights law
+Real Estate	
+  Real Estate - General	real estate, mortgages, deeds of trust, REITs, developers, title, escrow, property management, dispositions, lien issues, brokerage issues, 
+  Real Estate - Finance	finance, financing
+  Real Estate - Leasing	leasing, lessor, lessee, lease, sale deed
+  Real Estate - Purchase & Sale	land sales,
+  Real Estate - Eviction	eviction
+  Real Estate - Foreclosure	foreclosure
+  Real Estate - General Practice (Transaction)	
+Residential Property (UK)	residential property, conveyancing, residential real estate
+Sports Law	sports law
+Tax	
+  Tax - Controversy & Dispute Resolution 	tax controversy, Tax - Dispute Resolution
+  Tax - Federal	Tax + Federal
+  Tax - General	
+  Tax - General Practice (Transaction)	
+  Tax - International	International Tax
+  Tax - M&A and Transactions
+	Tax +
+•	mergers and acquisitions, structured finance, venture capital, hedge funds
+  Tax - State & Local	State tax, local tax, state and local tax, SALT, state income tax matters, real estate tax, sales tax, use tax, excise tax 
+  Tax - Transfer	
+Technology Transactions	Technology transactions, licensing, complex technology contracts, VAR agreements, OEM agreements, analyzing intellectual property rights associated with mergers and acquisitions
+Telecommunications	Telecommunications law, telecommunications, telecom, Federal Communications Commission, FCC, wireless instruments, broadband, wireless, satellite, cellular, telephone, DSL, cable, TRAI
+Transportation and Maritime	maritime, admiralty, chartering, port, dockage, transportation
+Trusts and Estates	
+  Trusts & Estates - General	trusts and estates, estate planning, wealth management, wills, executor, probate, private client
+  Trusts & Estates - Transactional	
+Workers' Compensation	
+  Workers' Compensation Law - General	workers' compensation, workman compensation
+  Workers' Compensation Law - Claimants	workers' compensation, workman compensation + claimant
+  Workers' Compensation Law - Employers	workers' compensation, workman compensation + employer
+
+
+This was made by Juriscape
